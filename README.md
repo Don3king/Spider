@@ -1,2 +1,2 @@
-# Spider For Tampermonkey
+# Spider
 spider
